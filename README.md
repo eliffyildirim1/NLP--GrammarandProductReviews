@@ -5,7 +5,8 @@ Dataset : https://www.kaggle.com/datafiniti/grammar-and-online-product-reviews
 
 ### Methods Used
 
-It is an NLP project. Logictic regression,Random Forest, KNN, SVM one of the machine learning methods, was used.
+- It is an NLP project. data pre-processing, data visualization and Exploratory Data Analysis(EDA) has been made.
+- Logictic regression,Random Forest, KNN, SVM one of the machine learning methods, was used.
 
 ### The questions answered with this data set are below.
 - Do reviewers use punctuation correctly?
